@@ -31,3 +31,5 @@ Here's the complete list of exercises you need to deliver:
 * Problem Solving Methods - Practice quiz on Problem Solving (9 questions)
 * Applying Bayes Theorem and the Binomial Theorem - Practice quiz on Bayes Theorem and the Binomial Theorem (9 questions)
 * Applying Bayes Theorem and the Binomial Theorem - Probability (basic and Intermediate) Graded Quiz (12 questions)
+
+djkdfjkdsfljksdf
